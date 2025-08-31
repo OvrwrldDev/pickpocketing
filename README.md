@@ -60,4 +60,4 @@ Cooldowns: Stops the player being able to pickpocket the same NPC twice.
 
 ## Support
 
-If you encounter issues, open a GitHub issue or contact the script developer.
+If you encounter issues, open a GitHub issue or contactme through discord (linked on my profile)
