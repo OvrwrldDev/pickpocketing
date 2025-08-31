@@ -50,7 +50,9 @@ Config.RewardCash = { min = 5, max = 45 }
 -- Config.AlertChance = 15  
 
 ```
+## Notes
 
+For police use, uncomment anything relating to the police job (in fxmanifest.lua, and client.lua)
 
 ## Usage
 
