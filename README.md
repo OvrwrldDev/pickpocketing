@@ -3,17 +3,10 @@
 ## Features
 
 
-NPC Pickpocketing: Rob NPCs with adjustable loot chances and animations.
+NPC Pickpocketing: Rob NPCs with adjustable cash amounts.
 
-Customizable Success Rates: Adjust the probability of successful theft.
 
-Configurable Rewards: Choose which items or cash can be stolen.
-
-Animations & Effects: Fully integrated animations for a smooth experience.
-
-Anti-Cheat & Cooldowns: Prevents spamming and reduces exploitation.
-
-Server-Side Logging: Optionally log all pickpocketing attempts.
+Configurable Cash Amount: Choose how much or how little cash can be stolen.
 
 ## Requirements
 
