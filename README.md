@@ -58,6 +58,6 @@ Pickpocket NPCs: Approach an NPC and third eye/target to pickpocket
 
 Cooldowns: Stops the player being able to pickpocket the same NPC twice.
 
-##Support
+## Support
 
 If you encounter issues, open a GitHub issue or contact the script developer.
